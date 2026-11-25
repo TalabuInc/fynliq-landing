@@ -13,7 +13,6 @@ docs/.tmp
 temp_auto_push.bat
 # The example file carries no secret and is the only documentation of which
 # variable connects the document reader, so it stays tracked.
-.env*
 !.env.example
 
 # Throwaway probes written next to the harnesses while debugging a deploy.
@@ -26,3 +25,4 @@ temp_auto_push.bat
 __pycache__/
 .gitignore
 branch_structure.json
+config.bat
