@@ -1,3 +1,4 @@
+.env*
 node_modules
 dist
 .DS_Store
@@ -19,4 +20,3 @@ docs/.tmp
 /.live.mjs
 /.diag.mjs
 /.chk.mjs
-config.bat
